@@ -1,3 +1,6 @@
-Hej världen
-Detta är en testfil
-Hej igen världen
+Hej Markus!
+Jag testar Text Analyzer
+Python är kul
+Text Analyzer fungerar bra
+Detta är ett test
+
